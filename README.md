@@ -2,6 +2,4 @@
 
 this is really awesome website 
 
-Edit on the example branch
-
-Now uptdating locally 
+Updating on master branch in the Github before rebase
